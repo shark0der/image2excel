@@ -22,3 +22,5 @@ I am not claiming this is the best method to achieve this task, but it work dece
 
 BEERWARE-LIKE
 
+[![Buy me a beer](../../blob/master/beer.jpg?raw=true)](http://beer.tux.ro/)
+
