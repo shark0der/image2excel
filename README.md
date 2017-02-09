@@ -2,6 +2,10 @@
 
 Script to draw images in excel using cell background colors.
 
+## Screenshot
+
+![Demo](../../blob/master/demo.png?raw=true)
+
 ## Usage
 
 1. Use img2csv.php to convert a png image to csv (every cell's value is a rgb color): `img2csv.php file.png out.csv`. Recommended image size is less than 500x500 px. For 600x600 I've got an "Too many styles" error.
@@ -22,5 +26,5 @@ I am not claiming this is the best method to achieve this task, but it work dece
 
 BEERWARE-LIKE
 
-[![Buy me a beer](../../blob/master/beer.jpg?raw=true)](http://beer.tux.ro/)
+<a href="http://beer.tux.ro" target="_blank" title="Buy me a beer!"><img src="../../blob/master/beer.jpg?raw=true" alt="Buy me a beer!"></a>
 
