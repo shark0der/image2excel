@@ -6,6 +6,11 @@ Script to draw images in excel using cell background colors.
 
 ![Demo](../../blob/master/demo.png?raw=true)
 
+## Demo
+
+1. <a href="../../blob/master/beer.xlsx?raw=true" title="Demo file">Download beer.xmlx</a>.
+2. Set zoom to 10%
+
 ## Usage
 
 1. Use img2csv.php to convert a png image to csv (every cell's value is a rgb color): `img2csv.php file.png out.csv`. Recommended image size is less than 500x500 px. For 600x600 I've got an "Too many styles" error.
